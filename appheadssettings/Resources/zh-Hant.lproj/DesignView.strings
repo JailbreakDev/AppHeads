@@ -1,0 +1,12 @@
+"BACKGROUND_VIEW" = "背景顯示";
+"BACKGROUND_VIEW_DESCRIPTION" = "當AppHeads“即時觀看”開啟時，選擇背景畫面";
+"LIVE_VIEW_SIZE" = "設定“即時觀看”視窗大小";
+"CORNER_RADIUS" = "設定“即時觀看”視窗圓角半徑";
+"BORDER_WIDTH" = "設定“即時觀看”視窗邊緣寬度";
+"BORDER_COLOR" = "設定“即時觀看”視窗邊緣顏色";
+"BACKGROUND_VIEW_OPTION_LAST_APP" = "使用最後開啟的應用程式";
+"BACKGROUMD_VIEW_OPTION_WALLPAPER" = "使用目前背景圖片";
+"DESIGN_SETTINGS" = "設計設定";
+"NO_BG" = "No Background View - Interaction";
+"BG_DISMISS_LIVE_VIEW" = "Dismiss Live View on Tap";
+"BIOLOCKDOWN_INTEGRATE" = "Use BioLockDown";

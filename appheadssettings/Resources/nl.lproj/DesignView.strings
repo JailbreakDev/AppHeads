@@ -1,0 +1,12 @@
+"BACKGROUND_VIEW" = "Achtergrond";
+"BACKGROUND_VIEW_DESCRIPTION" = "Kies de achtergrond van de Live View";
+"LIVE_VIEW_SIZE" = "Stel de grootte van de Live View in";
+"CORNER_RADIUS" = "Stel de hoekradius van een Live View in";
+"BORDER_WIDTH" = "Stel de breedte van de rand van de Live View in";
+"BORDER_COLOR" = "Stel de kleur van de rand van de Live View in";
+"BACKGROUND_VIEW_OPTION_LAST_APP" = "Laatst geopende applicatie";
+"BACKGROUMD_VIEW_OPTION_WALLPAPER" = "Huidige achtergrond";
+"DESIGN_SETTINGS" = "Ontwerp instellingen";
+"NO_BG" = "No Background View - Interaction";
+"BG_DISMISS_LIVE_VIEW" = "Dismiss Live View on Tap";
+"BIOLOCKDOWN_INTEGRATE" = "Use BioLockDown";

@@ -1,0 +1,12 @@
+"BACKGROUMD_VIEW_OPTION_WALLPAPER" = "Voir l'arrière-plan actuel";
+"BACKGROUND_VIEW" = "Voir l'arrière-plan";
+"BACKGROUND_VIEW_DESCRIPTION" = "Choisir l'arrière-plan quand AppHeadest s'ouvre";
+"BACKGROUND_VIEW_OPTION_LAST_APP" = "Dernière application ouverte";
+"BORDER_COLOR" = "Choisir la couleur des bords";
+"BORDER_WIDTH" = "Choisir l'épaisseur des bords";
+"CORNER_RADIUS" = "Choisir l'intensité des angles";
+"DESIGN_SETTINGS" = "Réglages design";
+"LIVE_VIEW_SIZE" = "Choisir la taille de la fenêtre";
+"NO_BG" = "No Background View - Interaction";
+"BG_DISMISS_LIVE_VIEW" = "Dismiss Live View on Tap";
+"BIOLOCKDOWN_INTEGRATE" = "Use BioLockDown";

@@ -1,0 +1,9 @@
+Package: com.sharedroutine.appheads
+Name: AppHeads
+Depends: mobilesubstrate, applist
+Version: 1.0
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: sharedRoutine
+Author: sharedRoutine
+Section: Tweaks

@@ -1,0 +1,12 @@
+"BACKGROUND_VIEW" = "背景显示";
+"BACKGROUND_VIEW_DESCRIPTION" = "选择一个当AppHead显示时的背景";
+"LIVE_VIEW_SIZE" = "设置实时显示大小";
+"CORNER_RADIUS" = "设置实时显示的边缘半径";
+"BORDER_WIDTH" = "设置实时显示的边缘宽度";
+"BORDER_COLOR" = "设置实时显示的边缘颜色";
+"BACKGROUND_VIEW_OPTION_LAST_APP" = "设置最后打开App";
+"BACKGROUMD_VIEW_OPTION_WALLPAPER" = "设置背景";
+"DESIGN_SETTINGS" = "自定义显示设置";
+"NO_BG" = "No Background View - Interaction";
+"BG_DISMISS_LIVE_VIEW" = "Dismiss Live View on Tap";
+"BIOLOCKDOWN_INTEGRATE" = "Use BioLockDown";

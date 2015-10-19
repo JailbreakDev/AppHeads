@@ -1,0 +1,12 @@
+"BACKGROUND_VIEW" = "Hintergrund";
+"BACKGROUND_VIEW_DESCRIPTION" = "Wähle einen Hintergrund für AppHeads Live-Ansicht aus.";
+"LIVE_VIEW_SIZE" = "Bestimme eine Größe für die Live-Ansicht";
+"CORNER_RADIUS" = "Bestimme den Eckenradius für die Live-Ansicht";
+"BORDER_WIDTH" = "Bestimme die Rahmenbreite für die Live-Ansicht";
+"BORDER_COLOR" = "Lege die Rahmenfarbe für die Live-Ansicht fest";
+"BACKGROUND_VIEW_OPTION_LAST_APP" = "Zuletzt aktive App";
+"BACKGROUMD_VIEW_OPTION_WALLPAPER" = "Aktuelles Hintergrundbild";
+"DESIGN_SETTINGS" = "Einstellungen zur Gestaltung";
+"NO_BG" = "No Background View - Interaction";
+"BG_DISMISS_LIVE_VIEW" = "Dismiss Live View on Tap";
+"BIOLOCKDOWN_INTEGRATE" = "Use BioLockDown";

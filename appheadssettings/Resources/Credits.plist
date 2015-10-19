@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSG</string>
+			<key>cellClass</key>
+			<string>SRDeveloperTableCell</string>
+			<key>height</key>
+			<integer>100</integer>
+			<key>devImage</key>
+			<string>sr@2x</string>
+			<key>devName</key>
+			<string>sharedRoutine</string>
+			<key>realName</key>
+			<string>Janosch Hübner</string>
+			<key>job</key>
+			<string>Developer</string>
+			<key>twittername</key>
+			<string>sharedRoutine</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSG</string>
+			<key>cellClass</key>
+			<string>SRDeveloperTableCell</string>
+			<key>height</key>
+			<integer>100</integer>
+			<key>devImage</key>
+			<string>nc@2x</string>
+			<key>devName</key>
+			<string>NoCommentOkay</string>
+			<key>realName</key>
+			<string>NoCommentOkay</string>
+			<key>job</key>
+			<string>Designer</string>
+			<key>twittername</key>
+			<string>NoCommentOkay</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>MAKERS</string>
+</dict>
+</plist>

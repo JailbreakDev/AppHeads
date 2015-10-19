@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Y-Coordinate</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSegmentCell</string>
+			<key>default</key>
+			<integer>0</integer>
+			<key>defaults</key>
+			<string>com.sharedroutine.appheads</string>
+			<key>id</key>
+			<string>xcoord</string>
+			<key>label</key>
+			<string></string>
+			<key>titlesDataSource</key>
+			<string>getYTitles:</string>
+			<key>valuesDataSource</key>
+			<string>getYValues:</string>
+			<key>set</key>
+			<string>setLaunchLocation:forSpecifier:</string>
+			<key>get</key>
+			<string>getLaunchLocationForSpecifier:</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>X-Coordinate</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSegmentCell</string>
+			<key>default</key>
+			<integer>0</integer>
+			<key>defaults</key>
+			<string>com.sharedroutine.appheads</string>
+			<key>id</key>
+			<string>xcoord</string>
+			<key>label</key>
+			<string></string>
+			<key>titlesDataSource</key>
+			<string>getXTitles:</string>
+			<key>valuesDataSource</key>
+			<string>getXValues:</string>
+			<key>set</key>
+			<string>setLaunchLocation:forSpecifier:</string>
+			<key>get</key>
+			<string>getLaunchLocationForSpecifier:</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Launch Location</string>
+</dict>
+</plist>

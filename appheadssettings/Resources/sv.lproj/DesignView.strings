@@ -1,0 +1,12 @@
+"BACKGROUND_VIEW" = "Bakgrundsvy";
+"BACKGROUND_VIEW_DESCRIPTION" = "Välj bakgrundsvy när AppHead visar Live-vyn";
+"LIVE_VIEW_SIZE" = "Ställ in storleken på Live-vyn";
+"CORNER_RADIUS" = "Ställ in hörnradien i Live-vyn";
+"BORDER_WIDTH" = "Ställ in kanttjockleken i Live-vyn";
+"BORDER_COLOR" = "Ställ in kantens färg i Live-vyn";
+"BACKGROUND_VIEW_OPTION_LAST_APP" = "Senast öppnade app";
+"BACKGROUMD_VIEW_OPTION_WALLPAPER" = "Vy med nuvarande bakgrundsbild";
+"DESIGN_SETTINGS" = "Designinställningar";
+"NO_BG" = "No Background View - Interaction";
+"BG_DISMISS_LIVE_VIEW" = "Dismiss Live View on Tap";
+"BIOLOCKDOWN_INTEGRATE" = "Use BioLockDown";

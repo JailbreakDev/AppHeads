@@ -1,0 +1,12 @@
+"BACKGROUND_VIEW"= "Vista De Fondo";
+"BACKGROUND_VIEW_DESCRIPTION"= "Escoge La Vista De Fondo Cuando Appheads Esta Mostrando Live View";
+"LIVE_VIEW_SIZE"="Define El Tamaño En Live View";
+"CORNER_RADIUS"="Define El Radio De La Esquina En Live View";
+"BORDER_WIDTH"="Define El Ancho Del Borde De Live View";
+"BORDER_COLOR"="Define El Color Del Borde De Live View";
+"BACKGROUND_VIEW_OPTION_LAST_APP"="Última Aplicación Abierta";
+"BACKGROUMD_VIEW_OPTION_WALLPAPER"="Vista de la imagen de fondo actual";
+"DESIGN_SETTINGS="Ajustes Diseño";
+"NO_BG" = "No Background View - Interaction";
+"BG_DISMISS_LIVE_VIEW" = "Dismiss Live View on Tap";
+"BIOLOCKDOWN_INTEGRATE" = "Use BioLockDown";

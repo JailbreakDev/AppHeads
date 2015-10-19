@@ -1,0 +1,12 @@
+"BACKGROUND_VIEW" = "الشاشة الخلفية";
+"BACKGROUND_VIEW_DESCRIPTION" = "اختر الشاشة الخلفية التي ستظهر عندما يظهر الAppHead الشاشة المباشرة.";
+"LIVE_VIEW_SIZE" = "اختر حجم الشاشة المباشرة";
+"CORNER_RADIUS" = "اختر نصف قطر زوايا الشاشة المباشرة";
+"BORDER_WIDTH" = "اختر سُمك حافة الشاشة المباشرة";
+"BORDER_COLOR" = "اختر لون حافة الشاشة المباشرة";
+"BACKGROUND_VIEW_OPTION_LAST_APP" = "اخر برنامج فتح";
+"BACKGROUMD_VIEW_OPTION_WALLPAPER" = "شاشة الخلفية المستعملة حاليًّا";
+"DESIGN_SETTINGS" = "إعدادات التصميم";
+"NO_BG" = "No Background View - Interaction";
+"BG_DISMISS_LIVE_VIEW" = "Dismiss Live View on Tap";
+"BIOLOCKDOWN_INTEGRATE" = "Use BioLockDown";

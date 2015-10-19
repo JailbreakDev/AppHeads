@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = AppHeadsSettings;
+		cell = PSLinkCell;
+		detail = "AppHeadsSettingsListController";
+		icon = "AppHeads.png";
+		isController = 1;
+		label = "AppHeads Settings";
+	};
+}

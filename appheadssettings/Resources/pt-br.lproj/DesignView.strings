@@ -1,0 +1,12 @@
+"BACKGROUND_VIEW" = "Visão do Plano de Fundo";
+"BACKGROUND_VIEW_DESCRIPTION" = "Escolha a Visão do Plano de Fundo Enquanto um AppHead Estiver Mostrando sua Visão em Tempo Real";
+"LIVE_VIEW_SIZE" = "Escolha o tamanho da visão em tempo real";
+"CORNER_RADIUS" = "Escolha o raio do canto da visão em tempo real";
+"BORDER_WIDTH" = "Escolha a largura da borda da visão em tempo real";
+"BORDER_COLOR" = "Escolha a cor da borda da visão em tempo real";
+"BACKGROUND_VIEW_OPTION_LAST_APP" = "Último aplicativo aberto";
+"BACKGROUMD_VIEW_OPTION_WALLPAPER" = "Visão do Wallpaper Atual";
+"DESIGN_SETTINGS" = "Configurações de Design";
+"NO_BG" = "No Background View - Interaction";
+"BG_DISMISS_LIVE_VIEW" = "Dismiss Live View on Tap";
+"BIOLOCKDOWN_INTEGRATE" = "Use BioLockDown";

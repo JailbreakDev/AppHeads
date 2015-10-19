@@ -1,0 +1,13 @@
+{
+	Filter = {
+		Bundles = (
+			"com.apple.springboard",
+			"com.apple.avfoundation",
+		);
+		Executables = (
+			backboardd,
+			assertiond
+		);
+		Mode = Any;
+	};
+}

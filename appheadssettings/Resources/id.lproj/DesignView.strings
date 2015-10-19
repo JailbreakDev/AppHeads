@@ -1,0 +1,12 @@
+"BACKGROUND_VIEW" = "Tampilan Latar Belakang";
+"BACKGROUND_VIEW_DESCRIPTION" = "Pilih Tampilan Latar Belakang ketika AppHead sedang menampilkan Tampilan Langsung";
+"LIVE_VIEW_SIZE" = "Setel ukuran dari Live View";
+"CORNER_RADIUS" = "Setel radius sudut Live View";
+"BORDER_WIDTH" = "Setel tebal batas dari Live View";
+"BORDER_COLOR" = "Setel warna batas dari Live View";
+"BACKGROUND_VIEW_OPTION_LAST_APP" = "Applikasi terakhir yang dibuka";
+"BACKGROUMD_VIEW_OPTION_WALLPAPER" = "Tampilan Wallpaper Saat kini";
+"DESIGN_SETTINGS" = "Pengaturan Rancangan";
+"NO_BG" = "No Background View - Interaction";
+"BG_DISMISS_LIVE_VIEW" = "Dismiss Live View on Tap";
+"BIOLOCKDOWN_INTEGRATE" = "Use BioLockDown";
