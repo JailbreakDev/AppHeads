@@ -1,0 +1,11 @@
+!AppHeads-Localizations/
+!AppHeads-Localizations/*
+.DS_Store
+.theos
+AppHeads-Localizations
+Changelog.txt
+register_stats.php
+thanks_to.txt
+postrm/.DS_Store
+SRClasses/SRLicenseDownloadedAlertItem.h
+SRClasses/SRLicenseDownloadedAlertItem.m
